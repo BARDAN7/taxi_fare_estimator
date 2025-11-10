@@ -13,3 +13,5 @@ Uses a trained ML model to predict fares based on historical trip data for bette
 
 4. User-Friendly Interface:
 Built with tools like Streamlit for a clean, responsive, and visually appealing design that enhances user experience.
+
+# Screenshot 
