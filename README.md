@@ -1,6 +1,7 @@
 # taxi_fare_estimator
 The Taxi Fare Estimation Web App helps users quickly find out how much a taxi ride might cost. It uses the XGBoost algorithm to predict prices based on distance, traffic, and weather. Built with Streamlit, the app is easy to use, visually appealing, and gives fast, accurate fare estimates for a smooth travel experience.
 The features of taxi_fare_estimator are:
+
 1. Fare Prediction:
 Accurately estimates the taxi fare based on input features like distance, time, pickup and drop-off locations, and traffic conditions.
 
